@@ -1,0 +1,13 @@
+.timer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+  span {
+    color: #ff1313;
+  }
+
+}
+
+.message {}
